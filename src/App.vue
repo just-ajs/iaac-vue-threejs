@@ -8,6 +8,8 @@
     </div>
   </nav>
 
+  <h2>Moj tytul</h2>
+
   <nav class="flex">
     <Sidebar/>
   <GeometryView/>
