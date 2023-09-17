@@ -9,6 +9,7 @@
   </nav>
 
   <h2>Moj tytul</h2>
+  <button>Moj tytul</button>
   <nav class="flex">
     <Sidebar/>
   <GeometryView/>
